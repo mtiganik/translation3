@@ -1,0 +1,12 @@
+{
+  "form": {
+    "header": "Введите новую форму",
+    "inputLabelText":"Введите номер 1 или 2",
+    "placeholderText":"1 или 2",
+    "succesMessage": "Правильное значение",
+    "errorMessage" : "Неверное значение"
+  },
+  "common":{
+    "submitBtnText" : "Представлять"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "form": {
+    "header": "Enter new form",
+    "inputLabelText":"Enter num 1 or 2",
+    "placeholderText":"1 or 2",
+    "succesMessage": "Correct value",
+    "errorMessage" : "Incorrect value"
+  },
+  "common":{
+    "submitBtnText" : "Submit"
+  }
+}

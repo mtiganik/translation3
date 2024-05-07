@@ -1,0 +1,12 @@
+{
+  "form": {
+    "header": "Sisesta uus vorm",
+    "inputLabelText":"Sisesta number 1 või 2",
+    "placeholderText":"1 või 2",
+    "succesMessage": "Õige väärtus",
+    "errorMessage" : "Vale väärtus"
+  },
+  "common":{
+    "submitBtnText" : "Jätka"
+  }
+}
